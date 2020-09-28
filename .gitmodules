@@ -1,0 +1,12 @@
+[submodule "MayFlower-Simulator"]
+	path = MayFlower-Simulator
+	url = https://github.com/alexandar1000/MayFlower-Simulator
+[submodule "MayFlower-Server"]
+	path = MayFlower-Server
+	url = https://github.com/alexandar1000/MayFlower-Server
+[submodule "MayFlower-WebPortal"]
+	path = MayFlower-WebPortal
+	url = https://github.com/alexandar1000/MayFlower-WebPortal
+[submodule "MayFlower-RobotSystem"]
+	path = MayFlower-RobotSystem
+	url = https://github.com/alexandar1000/MayFlower-RobotSystem
